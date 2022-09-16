@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Assignments section contains exercise questions for the topics covered
+  in the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
